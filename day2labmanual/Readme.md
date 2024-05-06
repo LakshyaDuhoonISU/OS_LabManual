@@ -12,8 +12,8 @@
 <br><br><img width="558" alt="Screenshot 2024-05-06 at 17 08 46" src="https://github.com/LakshyaDuhoonISU/OS_LabManual/assets/142775753/bb0e5925-e47a-42da-80e3-aa652aaec447">
 
 4.Write a shell script to check to see if the file “file_path” exists. If it does exist, display “file_path passwords are enabled.” Next, check to see if you can write to the file. If you can, display “You have permissions to edit “file_path.””If you cannot, display “You do NOT have permissions to edit “file_path””
-<br><img width="335" alt="Screenshot 2024-05-06 at 17 25 39" src="https://github.com/LakshyaDuhoonISU/OS_LabManual/assets/142775753/5ae2c8ec-0baa-425a-ba71-4af86d5aaa13">
-<br><br><img width="662" alt="Screenshot 2024-05-06 at 17 24 10" src="https://github.com/LakshyaDuhoonISU/OS_LabManual/assets/142775753/80f8d8a5-bd4a-4244-86aa-0ade92bb817a">
+<br><img width="453" alt="Screenshot 2024-05-06 at 22 24 32" src="https://github.com/LakshyaDuhoonISU/OS_LabManual/assets/142775753/012176cf-7ce6-4d09-9c03-eaedeecab7f1">
+<br><br><img width="666" alt="Screenshot 2024-05-06 at 22 24 21" src="https://github.com/LakshyaDuhoonISU/OS_LabManual/assets/142775753/2151bd9d-7712-4e29-9df8-bcf02fc4eb1f">
 
 5.Write a shell script that displays “man”,”bear”,”pig”,”dog”,”cat”,and “sheep” on the screen with each appearing on a separate line. Try to do this in as few lines as possible.
 <br><img width="353" alt="Screenshot 2024-05-06 at 17 48 39" src="https://github.com/LakshyaDuhoonISU/OS_LabManual/assets/142775753/6e782018-4f82-4987-be52-6060396af3da">

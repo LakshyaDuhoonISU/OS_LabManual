@@ -28,5 +28,6 @@
 <br><br><img width="684" alt="Screenshot 2024-05-06 at 18 17 14" src="https://github.com/LakshyaDuhoonISU/OS_LabManual/assets/142775753/fe390d70-043b-4d89-81b2-cddfe22005aa">
 
 8.Modify the previous script to accept an unlimited number of files and directories as arguments.
-<br>
-<br><br>
+<br><img width="428" alt="Screenshot 2024-05-06 at 22 16 10" src="https://github.com/LakshyaDuhoonISU/OS_LabManual/assets/142775753/882288c2-dc22-42b5-bed5-84b64e974147">
+<br><br><img width="684" alt="Screenshot 2024-05-06 at 18 17 14" src="https://github.com/LakshyaDuhoonISU/OS_LabManual/assets/142775753/828888fc-8b62-4f8e-a7ee-85870a0d7ed2">
+
